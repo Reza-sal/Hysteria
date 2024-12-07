@@ -17,3 +17,5 @@ hysteria2://9c8734a9fb5e1344@150.241.85.156:33311?security=tls&obfs=salamander&o
 hysteria2://a20e411bdcb3f2f1@[2a0b:4140:915d::2]:11122?security=tls&obfs=salamander&obfs-password=f6d407e645e57cac&insecure=1&sni=www.google.com#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%B8%F0%9F%87%AA+_+%40freeconfig01
 hysteria2://062c01693a7cc6ac@[2a0b:4140:cd98::2]:22211?security=tls&obfs=salamander&obfs-password=e36216019498c424&insecure=1&sni=www.google.com#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%B8%F0%9F%87%AA+_+%40freeconfig01
 hysteria2://9c8734a9fb5e1344@[2a0b:4140:cd99::2]:33311?security=tls&obfs=salamander&obfs-password=b80d61c718c07f62&insecure=1&sni=www.google.com#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%B8%F0%9F%87%AA+_+%40freeconfig01
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@140.238.137.165:30102?security=tls&insecure=1&sni=du.wish.ml#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%A8%F0%9F%87%A6+_+%40freeconfig01
+hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@144.22.187.105:30102?security=tls&insecure=1&sni=br.wish.ml#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%A7%F0%9F%87%B7+_+%40freeconfig01
